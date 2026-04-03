@@ -1,0 +1,209 @@
+City,Country,State,Region,Urban_Rural,Crime_Rate_per_100K,Education_Attainment_pct,Healthcare_Access_beds_per_1K,Transit_Modal_Share_pct,Median_Household_Income_USD,Unemployment_Rate_pct,Fiscal_Distress
+Detroit,United States,MI,Midwest,Urban,2057,13.5,2.1,5.8,32498,18.9,Yes
+Flint,United States,MI,Midwest,Urban,1551,11.2,1.8,3.1,27694,19.4,Yes
+Stockton,United States,CA,West,Urban,722,19.8,2.4,4.2,51234,14.2,Yes
+San Bernardino,United States,CA,West,Urban,982,16.1,2.2,3.8,44127,15.8,Yes
+Pontiac,United States,MI,Midwest,Urban,812,12.4,1.9,2.9,31450,21.3,Yes
+Central Falls,United States,RI,Northeast,Urban,481,14.2,2.6,6.1,34892,17.2,Yes
+Harrisburg,United States,PA,Northeast,Urban,748,17.3,2.8,7.4,35120,14.9,Yes
+Camden,United States,NJ,Northeast,Urban,1312,11.8,2.3,8.2,29341,22.1,Yes
+Chester,United States,PA,Northeast,Urban,978,13.1,2.1,5.9,31204,19.8,Yes
+East Cleveland,United States,OH,Midwest,Urban,891,10.9,2.0,4.1,24891,24.3,Yes
+Prichard,United States,AL,South,Urban,742,12.3,1.7,1.8,27340,20.1,Yes
+Jefferson County,United States,AL,South,Urban,398,22.4,3.1,2.4,48230,12.4,Yes
+Petersburg,United States,VA,South,Urban,619,15.8,2.4,3.2,33412,16.7,Yes
+Harvey,United States,IL,Midwest,Urban,834,14.2,2.0,5.8,34120,18.9,Yes
+Ecorse,United States,MI,Midwest,Urban,712,11.4,1.8,3.4,29870,22.4,Yes
+Benton Harbor,United States,MI,Midwest,Urban,891,10.1,1.7,2.1,22340,25.8,Yes
+Highland Park,United States,MI,Midwest,Urban,934,10.8,1.8,3.1,24120,26.1,Yes
+Mammoth Lakes,United States,CA,West,Rural,124,31.2,1.4,2.8,52341,11.2,Yes
+Vallejo,United States,CA,West,Urban,589,22.1,2.6,4.9,64320,12.8,Yes
+Compton,United States,CA,West,Urban,742,15.3,2.3,5.2,47230,14.1,Yes
+Gary,United States,IN,Midwest,Urban,901,12.4,2.0,3.8,31240,19.2,Yes
+East St. Louis,United States,IL,Midwest,Urban,1124,10.2,1.8,4.1,22890,24.7,Yes
+Scranton,United States,PA,Northeast,Urban,412,24.1,3.2,6.8,41230,12.1,Yes
+Bridgeport,United States,CT,Northeast,Urban,489,18.4,2.9,8.1,47120,13.4,Yes
+Providence,United States,RI,Northeast,Urban,398,23.1,3.4,9.2,45890,11.8,Yes
+Macon,United States,GA,South,Urban,612,17.2,2.5,3.1,36780,14.9,Yes
+Youngstown,United States,OH,Midwest,Urban,891,12.8,2.1,4.2,26780,20.4,Yes
+Baltimore,United States,MD,South,Urban,789,20.1,3.1,11.2,52340,13.2,Yes
+St. Louis,United States,MO,Midwest,Urban,614,22.3,3.2,8.4,47890,12.1,Yes
+Cleveland,United States,OH,Midwest,Urban,478,19.8,2.8,9.1,35120,14.8,Yes
+Memphis,United States,TN,South,Urban,497,21.4,2.9,4.8,42380,12.9,Yes
+Birmingham,United States,AL,South,Urban,412,22.8,3.0,4.1,44120,11.8,Yes
+New Orleans,United States,LA,South,Urban,789,24.1,2.8,5.8,48230,10.9,Yes
+Jackson,United States,MS,South,Urban,712,19.2,2.4,2.9,38940,13.4,Yes
+Trenton,United States,NJ,Northeast,Urban,671,16.8,2.7,7.8,42130,14.2,Yes
+Hartford,United States,CT,Northeast,Urban,498,21.3,3.3,9.4,38920,13.1,Yes
+Reading,United States,PA,Northeast,Urban,512,14.8,2.5,6.2,37840,16.8,Yes
+Allentown,United States,PA,Northeast,Urban,389,21.2,2.9,6.8,46230,12.4,Yes
+Rockford,United States,IL,Midwest,Urban,398,22.4,2.8,4.1,47890,11.9,Yes
+Peoria,United States,IL,Midwest,Urban,412,24.1,3.0,4.8,48120,11.2,Yes
+Dayton,United States,OH,Midwest,Urban,489,21.8,2.7,5.2,37840,14.1,Yes
+Paterson,United States,NJ,Northeast,Urban,478,18.2,2.6,8.9,46780,13.8,Yes
+Atlantic City,United States,NJ,Northeast,Urban,612,20.4,2.8,7.1,38240,16.4,Yes
+Braddock,United States,PA,Northeast,Urban,789,11.2,1.9,4.8,28940,22.8,Yes
+Inkster,United States,MI,Midwest,Urban,712,12.4,1.8,3.2,32140,21.4,Yes
+Pine Bluff,United States,AR,South,Urban,891,14.8,2.1,1.8,34120,17.8,Yes
+Selma,United States,AL,South,Urban,678,16.2,2.0,1.4,29840,19.4,Yes
+Passaic,United States,NJ,Northeast,Urban,489,17.8,2.6,8.4,48120,13.2,Yes
+Lawrence,United States,MA,Northeast,Urban,412,19.4,2.9,7.8,44890,12.8,Yes
+Springfield,United States,MA,Northeast,Urban,498,20.8,3.1,8.2,42340,13.4,Yes
+Austin,United States,TX,South,Urban,348,45.2,4.8,12.4,72891,4.2,No
+Seattle,United States,WA,West,Urban,271,52.8,5.1,23.8,95420,3.8,No
+Denver,United States,CO,West,Urban,312,46.1,4.6,11.2,72340,4.1,No
+Minneapolis,United States,MN,Midwest,Urban,289,48.4,5.2,18.4,71890,3.9,No
+Portland,United States,OR,West,Urban,298,49.2,4.9,17.8,73240,4.3,No
+Boston,United States,MA,Northeast,Urban,241,54.1,6.2,34.8,89240,3.4,No
+San Francisco,United States,CA,West,Urban,419,56.8,5.8,38.2,126187,3.2,No
+San Jose,United States,CA,West,Urban,312,51.4,5.1,8.4,109593,3.6,No
+Charlotte,United States,NC,South,Urban,298,41.2,4.4,6.8,67892,4.8,No
+Nashville,United States,TN,South,Urban,312,38.4,4.2,5.9,64120,4.4,No
+Raleigh,United States,NC,South,Urban,198,46.8,4.7,4.8,71240,3.8,No
+Atlanta,United States,GA,South,Urban,412,48.2,4.9,12.4,68940,4.2,No
+Dallas,United States,TX,South,Urban,389,38.1,4.3,6.2,57892,4.9,No
+Houston,United States,TX,South,Urban,412,34.2,4.1,7.8,54230,5.2,No
+Phoenix,United States,AZ,West,Urban,378,32.8,3.8,4.2,61240,5.4,No
+San Diego,United States,CA,West,Urban,289,44.8,4.7,7.4,83240,4.1,No
+Columbus,United States,OH,Midwest,Urban,341,38.4,4.2,5.8,58940,5.1,No
+Indianapolis,United States,IN,Midwest,Urban,412,32.8,3.9,4.2,54120,5.8,No
+Kansas City,United States,MO,Midwest,Urban,378,34.2,4.1,5.4,57840,5.2,No
+Louisville,United States,KY,South,Urban,341,32.4,3.8,4.8,56240,5.4,No
+Virginia Beach,United States,VA,South,Urban,198,38.4,4.4,3.2,72840,4.1,No
+Colorado Springs,United States,CO,West,Urban,241,40.2,4.1,2.8,64120,4.8,No
+Omaha,United States,NE,Midwest,Urban,312,36.8,4.0,3.8,61240,3.9,No
+Tucson,United States,AZ,West,Urban,378,30.4,3.6,4.8,47890,6.2,No
+Fresno,United States,CA,West,Urban,498,22.8,3.2,4.1,48240,8.4,No
+Sacramento,United States,CA,West,Urban,498,30.8,3.8,8.4,64120,6.8,No
+Mesa,United States,AZ,West,Urban,241,32.4,3.7,3.2,62340,5.1,No
+Albuquerque,United States,NM,West,Urban,789,28.4,3.4,5.8,51240,7.2,No
+Wichita,United States,KS,Midwest,Urban,412,32.8,3.9,2.8,55840,5.4,No
+Arlington,United States,TX,South,Urban,312,31.4,3.7,2.4,58240,5.2,No
+Bakersfield,United States,CA,West,Urban,489,22.4,3.1,3.2,57840,8.8,No
+Tampa,United States,FL,South,Urban,341,38.4,4.2,5.8,59240,4.8,No
+Orlando,United States,FL,South,Urban,298,34.8,4.0,5.2,54120,5.4,No
+Pittsburgh,United States,PA,Northeast,Urban,312,38.2,4.8,14.2,56240,5.8,No
+Cincinnati,United States,OH,Midwest,Urban,389,34.8,4.1,8.4,52340,6.2,No
+Anchorage,United States,AK,West,Urban,412,38.4,4.2,3.8,84120,5.8,No
+Lexington,United States,KY,South,Urban,241,42.8,4.4,4.8,58940,4.4,No
+St. Paul,United States,MN,Midwest,Urban,341,42.4,5.1,16.8,65240,4.2,No
+Corpus Christi,United States,TX,South,Urban,341,26.8,3.6,2.4,58240,5.8,No
+Henderson,United States,NV,West,Urban,198,36.4,3.8,2.8,72840,4.8,No
+Laredo,United States,TX,South,Urban,341,20.4,3.1,2.1,48240,7.2,No
+Chandler,United States,AZ,West,Urban,198,41.2,4.1,2.4,78240,4.2,No
+Scottsdale,United States,AZ,West,Urban,124,56.8,4.8,2.8,91240,3.4,No
+Gilbert,United States,AZ,West,Urban,124,46.8,4.2,2.1,88240,3.2,No
+Madison,United States,WI,Midwest,Urban,189,56.4,5.2,12.4,67840,3.4,No
+Irvine,United States,CA,West,Urban,89,68.4,4.9,4.8,109240,3.1,No
+Plano,United States,TX,South,Urban,124,56.2,4.6,3.2,89240,3.4,No
+Durham,United States,NC,South,Urban,412,48.4,4.8,5.8,64120,4.2,No
+Richmond,United States,VA,South,Urban,489,38.4,4.4,8.4,57840,5.4,No
+Boise,United States,ID,West,Urban,198,38.4,3.8,2.4,62340,3.8,No
+Spokane,United States,WA,West,Urban,489,32.8,3.6,4.8,51240,6.2,No
+Tacoma,United States,WA,West,Urban,498,32.4,3.8,6.8,62340,5.8,No
+Akron,United States,OH,Midwest,Urban,498,26.8,3.4,4.8,44120,7.8,No
+Grand Rapids,United States,MI,Midwest,Urban,389,32.8,3.8,6.4,54120,5.8,No
+Salt Lake City,United States,UT,West,Urban,341,42.8,4.4,10.8,65240,4.1,No
+Tulsa,United States,OK,South,Urban,489,30.4,3.8,3.2,51240,5.8,No
+Oakland,United States,CA,West,Urban,789,36.8,4.2,18.4,82340,6.4,No
+Aurora,United States,CO,West,Urban,378,34.8,3.9,5.8,62340,5.4,No
+Anaheim,United States,CA,West,Urban,289,32.4,3.8,5.2,68940,5.1,No
+Santa Ana,United States,CA,West,Urban,389,22.4,3.4,6.4,58240,6.8,No
+Riverside,United States,CA,West,Urban,378,28.4,3.6,4.8,64120,6.4,No
+Reno,United States,NV,West,Urban,489,28.8,3.6,4.2,58240,6.8,No
+Greensboro,United States,NC,South,Urban,398,32.4,4.0,4.1,51240,5.8,No
+Lincoln,United States,NE,Midwest,Urban,198,38.4,4.1,3.8,59240,3.4,No
+St. Petersburg,United States,FL,South,Urban,312,34.8,4.1,5.2,58240,4.8,No
+Jersey City,United States,NJ,Northeast,Urban,312,42.8,4.6,28.4,76240,5.4,No
+Chula Vista,United States,CA,West,Urban,198,34.4,3.8,4.8,76240,5.2,No
+Fort Wayne,United States,IN,Midwest,Urban,398,26.8,3.6,2.8,51240,5.4,No
+Buffalo,United States,NY,Northeast,Urban,498,26.8,3.8,10.8,41240,7.8,No
+Norfolk,United States,VA,South,Urban,489,28.4,3.8,5.4,54120,6.8,No
+Glendale,United States,AZ,West,Urban,312,28.4,3.6,3.8,54120,6.2,No
+Winston-Salem,United States,NC,South,Urban,378,30.4,3.9,3.4,51240,5.8,No
+Fayetteville,United States,NC,South,Urban,498,24.8,3.4,2.8,46240,7.8,No
+Lubbock,United States,TX,South,Urban,378,28.4,3.6,2.4,51240,5.4,No
+Garland,United States,TX,South,Urban,312,28.8,3.6,3.2,56240,5.8,No
+Carmel,United States,IN,Midwest,Rural,89,62.4,4.2,1.8,112340,2.8,No
+Naperville,United States,IL,Midwest,Rural,89,64.8,4.4,3.2,109240,2.4,No
+Overland Park,United States,KS,Midwest,Rural,124,58.4,4.2,2.4,89240,2.8,No
+Frisco,United States,TX,South,Rural,89,62.8,4.1,2.8,112840,2.4,No
+McKinney,United States,TX,South,Rural,98,54.8,4.0,2.4,98240,2.8,No
+Cary,United States,NC,South,Rural,89,64.2,4.3,2.8,98840,2.4,No
+Sunnyvale,United States,CA,West,Rural,124,68.4,4.8,5.2,124240,2.8,No
+Bellevue,United States,WA,West,Rural,124,62.8,5.1,6.8,112840,2.4,No
+Ann Arbor,United States,MI,Midwest,Rural,198,72.4,5.4,8.4,67840,3.4,No
+Athens,Greece,,Europe,Urban,312,28.4,4.8,22.4,24120,22.1,Yes
+Thessaloniki,Greece,,Europe,Urban,289,26.8,4.2,18.2,21840,24.8,Yes
+Naples,Italy,,Europe,Urban,412,24.1,4.1,28.4,22340,26.4,Yes
+Palermo,Italy,,Europe,Urban,389,22.8,3.8,24.1,20890,28.1,Yes
+Taranto,Italy,,Europe,Urban,298,21.4,3.6,18.4,19840,29.4,Yes
+Reggio Calabria,Italy,,Europe,Urban,412,19.8,3.4,14.2,18240,31.2,Yes
+Valencia,Spain,,Europe,Urban,312,32.4,5.1,22.8,26840,21.4,Yes
+Murcia,Spain,,Europe,Urban,289,30.2,4.8,12.4,24120,22.8,Yes
+Bucharest,Romania,,Europe,Urban,341,34.8,3.9,42.8,18940,16.2,Yes
+Sofia,Bulgaria,,Europe,Urban,298,32.4,3.6,38.4,17240,18.4,Yes
+Caracas,Venezuela,,Latin America,Urban,1189,21.4,1.8,18.4,8240,28.4,Yes
+Maracaibo,Venezuela,,Latin America,Urban,1342,18.2,1.4,12.4,7120,34.2,Yes
+Buenos Aires,Argentina,,Latin America,Urban,412,42.8,4.2,48.4,14240,18.4,Yes
+Rosario,Argentina,,Latin America,Urban,489,38.4,3.8,32.4,12840,21.2,Yes
+Fortaleza,Brazil,,Latin America,Urban,891,24.8,2.8,22.4,9840,18.4,Yes
+Recife,Brazil,,Latin America,Urban,812,22.4,2.6,28.4,10240,19.8,Yes
+Medellin,Colombia,,Latin America,Urban,712,28.4,3.2,24.8,9120,16.4,Yes
+Cali,Colombia,,Latin America,Urban,789,26.2,3.0,18.4,8840,18.2,Yes
+Lagos,Nigeria,,Africa,Urban,891,18.4,1.2,28.4,4240,24.8,Yes
+Kinshasa,DRC,,Africa,Urban,1012,12.4,0.8,14.2,1840,38.4,Yes
+Harare,Zimbabwe,,Africa,Urban,712,22.8,1.4,18.4,2840,28.4,Yes
+Lusaka,Zambia,,Africa,Urban,589,24.4,1.6,12.8,3240,22.4,Yes
+Kampala,Uganda,,Africa,Urban,498,21.8,1.4,14.4,2940,24.8,Yes
+Dakar,Senegal,,Africa,Urban,389,24.2,1.8,18.4,3640,19.8,Yes
+Accra,Ghana,,Africa,Urban,312,26.4,2.1,22.4,4840,16.4,Yes
+Nairobi,Kenya,,Africa,Urban,489,28.4,2.4,28.4,5240,18.4,Yes
+Maputo,Mozambique,,Africa,Urban,412,18.4,1.2,16.4,2040,28.4,Yes
+Lilongwe,Malawi,,Africa,Rural,289,16.4,0.9,8.4,1240,32.4,Yes
+Kabul,Afghanistan,,Asia,Urban,812,14.2,0.8,8.4,1840,38.4,Yes
+Karachi,Pakistan,,Asia,Urban,712,18.4,1.4,18.4,3840,18.4,Yes
+Colombo,Sri Lanka,,Asia,Urban,312,32.4,2.8,22.4,6840,14.4,Yes
+Yangon,Myanmar,,Asia,Urban,289,24.8,1.8,14.4,4240,16.4,Yes
+Dhaka,Bangladesh,,Asia,Urban,498,22.4,1.6,28.4,4840,18.4,Yes
+Islamabad,Pakistan,,Asia,Urban,289,34.8,2.4,12.4,5840,16.8,Yes
+Oslo,Norway,,Europe,Urban,89,56.4,7.2,48.4,78240,3.4,No
+Stockholm,Sweden,,Europe,Urban,124,54.8,6.8,52.4,72840,3.8,No
+Copenhagen,Denmark,,Europe,Urban,98,58.2,6.4,64.8,74240,3.2,No
+Vienna,Austria,,Europe,Urban,124,52.4,6.8,58.4,68240,4.2,No
+Amsterdam,Netherlands,,Europe,Urban,189,54.2,5.8,62.4,64240,3.8,No
+Zurich,Switzerland,,Europe,Urban,89,62.4,7.4,68.4,98240,2.8,No
+Munich,Germany,,Europe,Urban,124,56.8,6.4,58.4,72840,3.4,No
+Hamburg,Germany,,Europe,Urban,189,52.4,6.2,48.4,68240,4.2,No
+Helsinki,Finland,,Europe,Urban,89,58.4,6.8,54.4,68840,3.6,No
+Dublin,Ireland,,Europe,Urban,189,54.8,5.8,38.4,64240,4.8,No
+Lisbon,Portugal,,Europe,Urban,198,42.4,5.2,38.4,34240,8.4,No
+Warsaw,Poland,,Europe,Urban,198,46.8,4.8,48.4,28240,6.4,No
+Prague,Czechia,,Europe,Urban,124,48.4,5.2,52.4,32240,4.8,No
+Singapore,Singapore,,Asia Pacific,Urban,89,58.4,8.4,68.4,84240,2.4,No
+Tokyo,Japan,,Asia Pacific,Urban,89,62.4,8.8,72.4,54240,2.8,No
+Seoul,South Korea,,Asia Pacific,Urban,124,58.4,7.8,68.4,42240,3.4,No
+Osaka,Japan,,Asia Pacific,Urban,98,56.8,8.2,64.4,48240,3.2,No
+Sydney,Australia,,Asia Pacific,Urban,198,52.4,6.8,24.4,68240,4.4,No
+Melbourne,Australia,,Asia Pacific,Urban,189,54.2,6.4,22.4,64240,4.2,No
+Auckland,New Zealand,,Asia Pacific,Urban,198,48.4,5.8,18.4,58240,4.8,No
+Taipei,Taiwan,,Asia Pacific,Urban,98,56.8,7.2,62.4,38240,3.8,No
+Kuala Lumpur,Malaysia,,Asia Pacific,Urban,312,42.8,4.8,28.4,22840,5.4,No
+Bangkok,Thailand,,Asia Pacific,Urban,289,38.4,4.2,28.4,18240,6.4,No
+Santiago,Chile,,Latin America,Urban,312,48.4,4.2,38.4,22840,8.4,No
+Bogota,Colombia,,Latin America,Urban,498,42.8,3.8,42.4,14840,10.4,No
+Lima,Peru,,Latin America,Urban,489,38.4,3.4,28.4,12840,8.8,No
+Panama City,Panama,,Latin America,Urban,312,44.8,4.2,22.4,24240,7.4,No
+Montevideo,Uruguay,,Latin America,Urban,289,46.4,4.4,32.4,18840,8.2,No
+San Jose,Costa Rica,,Latin America,Urban,312,48.2,4.8,18.4,22240,7.8,No
+Dubai,UAE,,Middle East,Urban,89,48.4,6.8,18.4,62240,2.4,No
+Abu Dhabi,UAE,,Middle East,Urban,89,52.4,7.2,14.4,72840,2.2,No
+Doha,Qatar,,Middle East,Urban,98,54.8,7.4,14.4,84240,2.8,No
+Tel Aviv,Israel,,Middle East,Urban,124,56.4,6.8,28.4,52840,3.8,No
+Amman,Jordan,,Middle East,Urban,198,44.8,4.4,14.4,18240,9.4,No
+Cape Town,South Africa,,Africa,Urban,789,38.4,3.8,18.4,14840,12.4,No
+Johannesburg,South Africa,,Africa,Urban,891,34.8,3.4,14.4,16240,14.8,No
+Kigali,Rwanda,,Africa,Urban,98,28.4,2.8,12.4,4840,14.4,No
+Addis Ababa,Ethiopia,,Africa,Urban,198,24.8,2.2,18.4,3840,12.4,No
+Dar es Salaam,Tanzania,,Africa,Urban,289,26.4,2.0,14.4,3640,14.8,No
+Casablanca,Morocco,,Africa,Urban,312,32.4,3.2,22.4,8240,12.8,No
